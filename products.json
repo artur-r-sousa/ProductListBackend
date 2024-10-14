@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Lenovo V14 14' Intel",
+    "price": 3959.99,
+    "image": "https://www.lenovo.com/medias/lenovo-laptops-lenovo-v14-gen-3-14-intel-hero.png?context=bWFzdGVyfHJvb3R8MjU3MDIyfGltYWdlL3BuZ3xoMDkvaGQ5LzE2NTM1MDg5MzQ4NjM4LnBuZ3w3ZTQ1OTc0MDY1ZWUzOGU0MTAwODA0OGE3MTEyOTNkNGVkM2YzZGNhYTZhYmE0ZmJjZTY5NzgxOTVlYzBhNTMw"
+  },
+  {
+    "id": 2,
+    "name": "Fone De Ouvido Headphone Bluetooth 5.0",
+    "price": 69.90,
+    "image": "https://m.media-amazon.com/images/I/515sE9o4qKL._AC_SX679_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Apple iPhone 14 Plus (128 GB) – Meia-Noite ",
+    "price": 4399,
+    "image": "https://m.media-amazon.com/images/I/41+UvjG277L._AC_SL1000_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Notebook Samsung Galaxy Book4 i5 8GB 512GB",
+    "price": 3849.00,
+    "image": "https://m.media-amazon.com/images/I/51lGW2nP9qL._AC_SL1080_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "I2GO, Headphone Bass 300, Bluetooth, Microfone Integrado",
+    "price": 149.90,
+    "image": "https://m.media-amazon.com/images/I/61lg3DwB7zL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Smartphone Samsung Galaxy S24+, Galaxy AI",
+    "price": 5290.90,
+    "image": "https://m.media-amazon.com/images/I/71KZXGAb5fL._AC_SL1500_.jpg"
+  }
+]
