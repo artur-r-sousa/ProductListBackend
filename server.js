@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const app = express();
-const products = require('./products.json'); // Arquivo com os dados dos produtos
+const products = require('./products.json'); 
 
 app.use(cors());
 
